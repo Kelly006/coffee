@@ -1,0 +1,25 @@
+.header {
+  padding: 60px;
+  text-align: center;
+  background: #ba9073;
+  color: sandybrown;
+  font-size: 30px;
+}
+ div     {   margin-left: auto;
+            margin-right: auto;
+            width: 500px;
+            background: white;
+ }
+
+ Body    {   background-color: antiquewhite;
+ }
+ H1      {     color: #ff0000;
+              font: arial;
+              text-align: center;
+              font-size: 32px
+}
+p       {     color: #0000ff;
+              font-family: "lucida console", Courier, monospace;
+              font-style: italic;
+              text-align: right;
+              font-size: 12px;
